@@ -1,0 +1,47 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+/* style.css */
+
+/* Styling for the title pane */
+#root .title-pane {
+    -fx-background-color: lightblue;
+}
+
+/* Styling for the left pane */
+#root .left-pane {
+    -fx-background-color: lightgreen;
+}
+
+/* Styling for the right pane */
+#root .right-pane {
+    -fx-background-color: lightpink;
+}
+
+/* Styling for buttons */
+.button {
+    -fx-background-color: #FF5733; /* Replace with your desired color */
+    
+}
+
+/* Styling for labels */
+
+
+/* Styling for text fields */
+.text-field {
+    -fx-background-color: #F0F0F0;
+   
+}
+
+/* Styling for text fields */
+.text-field {
+    -fx-background-color: #F0F0F0;
+    -fx-font-size: 14px;
+    -fx-border-color: #3498db; /* Set your desired border color */
+    -fx-border-width: 2px;    /* Set the border width */
+}
+
+/* Styling for buttons on hover */
+.button:hover {
+    -fx-cursor: pointer; /* Change cursor on hover */
+}
+
